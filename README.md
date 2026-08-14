@@ -1,6 +1,6 @@
 # DevOps
 Repositório destinado para alocar meus estudos na trilha de DevOps.
----
+___
 #     Mês 01 - -A base de tudo.-
 - Linux;
 - Terminal;
@@ -18,4 +18,5 @@ ___
 - Script Python que consome API pública e gera relatório;
 - Anotações de Redes no repositório;
 - Scripts do mês 1 refeitos em Python.
-- 
+___
+# Mês 03 - 
